@@ -11,10 +11,11 @@
 
 
 
-### PROGRAMMING LANGUAGES :
+### Programming Languages And Tools :
 
-<img src="https://img.shields.io/badge/-MYSQL-4479A1?logo=mysql&logoColor=fff">
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src="https://img.shields.io/badge/-C Language-A8B9CC?logo=C&logoColor=fff">
-
-<img src="https://img.shields.io/badge/C++-blue.svg?style=flat&logo=cplusplus">
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
