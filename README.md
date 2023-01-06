@@ -4,9 +4,9 @@
 
 ### I'm a college student in University Of Technology Essaouira !!
 
-- 🌱 I’m currently learning about HTML5 , CSS3 , JavaScipt , JAVA 
+- 🌱 I’m currently learning about ReactJS , NodeJS , MongoDB 
 - 👯 I want to develop my programming skills
-- 🥅 2023 Goals: Develop a personal project with JAVA 
+- 🥅 2023 Goals: Develop a personal project with React 
 
 
 
