@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS && Laravel**
 
 - 💬 Ask me about **ReactJS and PHP**
 
