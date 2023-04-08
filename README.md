@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaid MAHSOUNE</h1>
-<h3 align="center">A fullstack developer from Morocco</h3>
+<h3 align="center">A Fullstack Developer from Morocco</h3>
 
 
 
