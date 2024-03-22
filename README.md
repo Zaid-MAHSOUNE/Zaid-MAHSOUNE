@@ -3,9 +3,9 @@
 
 
 
-- 🌱 I’m currently learning **ReactJS && Laravel**
+- 🌱 I’m currently learning **ReactJS && SpringBoot**
 
-- 💬 Ask me about **ReactJS and PHP**
+- 💬 Ask me about **ReactJS and JAVA**
 
 - 📫 How to reach me **zd.mahsoune@gmail.com**
 
