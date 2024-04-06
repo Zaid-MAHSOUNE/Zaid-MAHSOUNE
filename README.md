@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Zaid-MAHSOUNE" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zaid+MAHSOUNE!;" />
@@ -31,14 +30,6 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
 
 <h5 align="center">Programming Languages</h5>
 
@@ -130,6 +121,8 @@
   <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="scikit-learn logo"  />
 </div>
 
 ###
