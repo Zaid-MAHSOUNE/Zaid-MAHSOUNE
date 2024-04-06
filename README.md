@@ -122,7 +122,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
     <img width="12" />
-    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="20" alt="scikit-learn logo" />
+    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40" alt="scikit-learn logo" />
 </div>
 
 ###
