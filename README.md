@@ -3,17 +3,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zaid+MAHSOUNE!;" />
 </h1>
 
-<h3 align="center">A Junior Software Engineer </h3>
+<h3 align="center">A Junior DevOps Engineer </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **an API using Spring Boot**
+ 🔭 I’m currently working on **CI/CD Pipelines to automate building, testing and deployement**
  
- 🌱 I’m currently learning **Spring Boot and Cloud Fundamentals**
+ 🌱 I’m currently learning **Github Actions, Gitlab CI, Docker, AWS Cloud**
 
-💬 Ask me about **React**
+💬 Ask me about **Cloud Tech.**
 
  </div>
  
